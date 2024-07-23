@@ -16,8 +16,8 @@
     <section id="produtos">
         <form action="insere-categoria.php" method="post">
            <label for="">Descrição</label>
-           <input type="text"  name = "descricao">
-           <input type="submit"  value = "Cadastrar">
+           <input type="text"  name ="descricao">
+           <input type="submit"  value ="Cadastrar">
         </form>
     </section>    
  </body>

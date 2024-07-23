@@ -1,7 +1,7 @@
 <?php
-include('controller/conexão.php');
+include('controller/conexao.php');
 
-$descricao = $_POST('descricao');
+$descricao = $_POST['descricao'];
 
 echo "<h3>Descrição: $descricao </h3></br>";
 
