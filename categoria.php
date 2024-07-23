@@ -14,7 +14,7 @@
         </div>
     </header>
     <section id="produtos">
-        <form action="" method="post">
+        <form action="insere-categoria" method="post">
            <label for="">Descrição</label>
            <input type="text"  name = "descricao">
            <input type="submit"  value = "Cadastrar">
