@@ -5,6 +5,7 @@ Este projeto é uma aplicação web simples que permite o gerenciamento de um ca
 A estrutura do projeto é a seguinte:
 
 index.php: Página inicial que pode servir como a entrada para outras funcionalidades.
+
 carrinho.php: Página que exibe o carrinho de compras e produtos disponíveis.  
 
 produtos.php: Página que lista produtos e permite adicionar ao carrinho.  
