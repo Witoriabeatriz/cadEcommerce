@@ -79,7 +79,7 @@ Suponha que você queira adicionar uma nova categoria chamada "Eletrônicos". Vo
     <input type="submit" value="Cadastrar">
 </form>
 ```  
-
+Código PHP:
 ```markdown
 <?php
 include('controller/conexao.php');
