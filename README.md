@@ -80,6 +80,8 @@ Resumo do Pedido: Exibe um resumo do pedido feito.
 
 
 # 🐘 Exemplos de Uso dos Métodos PHP  
+ Vou fornecer alguns exemplos de uso para ilustrar como aplicar esses conceitos. Esses exemplos ajudarão a entender melhor como utilizar as técnicas e abordagens mencionadas, demonstrando aplicações práticas e relevantes.  
+ 
 # 🗃️ Cadastro de Categoria
 **Arquivo:** *insere-categoria.php*
 
