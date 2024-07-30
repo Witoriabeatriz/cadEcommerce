@@ -37,9 +37,9 @@ script.js: Script JavaScript personalizado.
 
 # Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado:  
-1. PHP  
-2. MySQL  
-3. Um servidor local como XAMPP ou WampServer  
+1. PHP 8.0.30
+2. MariaDB 10.4.32
+3. XAMPP 3.3.0
 
 # Configuração do Banco de Dados
 1. Crie um banco de dados MySQL e importe o esquema apropriado para criar as tabelas necessárias (categoria, marca, produtos, etc.).  
