@@ -1,9 +1,11 @@
 # Aplicação de cadastro de e-commerce
-![Demonstração do Projeto](img/cadEcomerce.gif)
-## Descrição
+## 🖥️ Capa do projeto
+<img src="img/cadEcomerce.gif">
+
+## 📌 Sobre o projeto 
 Este projeto é uma aplicação web simples que permite o gerenciamento de um carrinho de compras, cadastro de categorias, marcas e produtos. Foi desenvolvido utilizando HTML, CSS, JavaScript e PHP com MySQL para a manipulação de dados.
 
-## Estrutura do Projeto
+## 📝Estrutura do Projeto
 A estrutura do projeto é a seguinte:   
 
 ### **Arquivos HTML**  
@@ -46,7 +48,7 @@ Arquivos JavaScript
 **insere-produto.php**: Script para inserir um novo produto no banco de dados.
 
 
-# Pré-requisitos
+# 🤖 Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado:  
 1. PHP 8.0.30
 2. MariaDB 10.4.32
