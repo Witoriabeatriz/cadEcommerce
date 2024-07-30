@@ -1,38 +1,50 @@
-# CadEcomerce
+# Aplicação de cadastro de e-commerce
+
+## Descrição
 Este projeto é uma aplicação web simples que permite o gerenciamento de um carrinho de compras, cadastro de categorias, marcas e produtos. Foi desenvolvido utilizando HTML, CSS, JavaScript e PHP com MySQL para a manipulação de dados.
 
-# Estrutura do Projeto
-A estrutura do projeto é a seguinte:
+## Estrutura do Projeto
+A estrutura do projeto é a seguinte:   
+#
+### **Arquivos HTML**  
 
-index.php: Página inicial que pode servir como a entrada para outras funcionalidades.
-carrinho.php: Página que exibe o carrinho de compras e produtos disponíveis.  
+**index.php**: Página inicial que pode servir como a entrada para outras funcionalidades.  
 
-produtos.php: Página que lista produtos e permite adicionar ao carrinho.  
+**carrinho.php**: Página que exibe o carrinho de compras e produtos disponíveis. 
 
-cadastro-categorias.php: Página para cadastro de categorias de produtos.  
+**categoria.php**: Página para cadastrar novas categorias.
 
-cadastro-marcas.php: Página para cadastro de marcas de produtos.  
+**marca.php**: Página para cadastrar novas marcas.  
 
-cadastro-produtos.php: Página para cadastro de produtos.  
+**produto.php**: Página para cadastrar novos produtos.  
 
-resumo-pedido.php: Página que mostra o resumo do pedido realizado.  
+**pedido.php**: Página para exibir o resumo do pedido.  
+#
+### **Arquivos CSS**
 
-controller/
-conexao.php: Arquivo responsável pela conexão com o banco de dados.    
+**css/style.css**: Arquivo de estilo que define a aparência das páginas.
+Arquivos JavaScript
 
-carrinho-busca.php: Script para buscar e exibir produtos no carrinho.  
+**js/jquery-2.1.4.min.js**: Biblioteca jQuery para facilitar a manipulação do DOM.
 
-produtos-busca.php: Script para buscar e exibir produtos.  
+**js/script.js**: Script personalizado para adicionar interatividade às páginas.  
+#
+### **Scripts PHP**
 
-produtos-resumo.php: Script para mostrar o resumo dos pedidos.  
+**controller/conexao.php**: Script para estabelecer conexão com o banco de dados.  
 
-css/
-style.css: Folha de estilo para a aplicação.  
+**controller/carrinho-busca.php**: Script para buscar informações do carrinho.  
 
-js/
-jquery-2.1.4.min.js: Biblioteca jQuery.  
+**controller/produtos-busca.php**: Script para buscar informações dos produtos.  
 
-script.js: Script JavaScript personalizado.  
+**controller/produtos-resumo.php**: Script para exibir o resumo do pedido.  
+
+**insere-categoria.php**: Script para inserir uma nova categoria no banco de dados.  
+
+**insere-marca.php**: Script para inserir uma nova marca no banco de dados.  
+
+**insere-produto.php**: Script para inserir um novo produto no banco de dados.
+
 
 # Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado:  
@@ -66,7 +78,7 @@ Resumo do Pedido: Exibe um resumo do pedido feito.
 
 # Exemplos de Uso dos Métodos PHP  
 ## Cadastro de Categoria
-**Arquivo:** insere-categoria.php
+**Arquivo:** *insere-categoria.php*
 
 **Descrição:** Este script insere uma nova categoria no banco de dados.
 
@@ -98,7 +110,7 @@ mysqli_close($mysqli);
 ?>
 ```
 # Cadastro de Marca
-**Arquivo:** insere-marca.php
+**Arquivo:** *insere-marca.php*
 
 **Descrição:** Este script insere uma nova marca no banco de dados.
 
@@ -134,7 +146,7 @@ mysqli_close($mysqli);
  ``` 
 
 # Cadastro de Produto
-**Arquivo:** insere-produto.php
+**Arquivo:** *insere-produto.php*
 
 **Descrição:** Este script insere um novo produto no banco de dados, associando-o a uma categoria e uma marca.
 
