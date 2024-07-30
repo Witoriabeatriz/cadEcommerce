@@ -80,7 +80,7 @@ Resumo do Pedido: Exibe um resumo do pedido feito.
 
 
 # 🐘 Exemplos de Uso dos Métodos PHP  
-## 🗃️ Cadastro de Categoria
+# 🗃️ Cadastro de Categoria
 **Arquivo:** *insere-categoria.php*
 
 **Descrição:** Este script insere uma nova categoria no banco de dados.
