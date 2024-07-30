@@ -56,16 +56,14 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 3. XAMPP 3.3.0
 
 # 🗃️ Configuração do Banco de Dados
-1. Crie um banco de dados MySQL e importe o esquema apropriado para criar as tabelas necessárias (categoria, marca, produtos, etc.).  
+Para usar esta aplicação, você precisará baixar alguns arquivos listados abaixo:
+- [Git](https://git-scm.com/download/win) - Para clonar o repositório
 
-2. Atualize o arquivo controller/conexao.php com suas credenciais de banco de dados.
-Como Executar
-Clone o repositório para seu ambiente local.  
+- [Xampp](https://www.apachefriends.org/pt_br/download.html) Pacote que instala Apache, MySQL, PHP 
 
-3. Coloque os arquivos na pasta do seu servidor local (por exemplo, na pasta htdocs se estiver usando XAMPP).  
+- [Banco de dados]()  
 
-4. Acesse a aplicação através do seu navegador, apontando para http://localhost/index.php.  
-
+#
 # 💾 Funcionalidades
 Cadastro de Categorias: Permite adicionar novas categorias ao banco de dados.  
 
@@ -77,11 +75,9 @@ Carrinho de Compras: Permite visualizar e adicionar produtos ao carrinho.
 
 Resumo do Pedido: Exibe um resumo do pedido feito.  
 
-
-
 # 🐘 Exemplos de Uso dos Métodos PHP  
  Vou fornecer alguns exemplos de uso para ilustrar como aplicar esses conceitos. Esses exemplos ajudarão a entender melhor como utilizar as técnicas e abordagens mencionadas, demonstrando aplicações práticas e relevantes.  
- 
+
 # 🗃️ Cadastro de Categoria
 **Arquivo:** *insere-categoria.php*
 
