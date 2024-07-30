@@ -8,13 +8,7 @@ A estrutura do projeto é a seguinte:
 #
 ### **Arquivos HTML**  
 
-<<<<<<< HEAD
 **index.php**: Página inicial que pode servir como a entrada para outras funcionalidades.  
-=======
-index.php: Página inicial que pode servir como a entrada para outras funcionalidades.
-
-carrinho.php: Página que exibe o carrinho de compras e produtos disponíveis.  
->>>>>>> f74e59e1854f61645a79caa8f5a78facc7ceb063
 
 **carrinho.php**: Página que exibe o carrinho de compras e produtos disponíveis. 
 
