@@ -1,5 +1,6 @@
 # Aplicação de cadastro de e-commerce
-## 🖥️ Capa do projeto
+## 🖥️ Capa do projeto  
+
 <img src="img/cadEcomeerce.gif">
 
 ## 📌 Sobre o projeto 
