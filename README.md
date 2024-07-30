@@ -5,7 +5,7 @@ Este projeto é uma aplicação web simples que permite o gerenciamento de um ca
 
 ## Estrutura do Projeto
 A estrutura do projeto é a seguinte:   
-#
+
 ### **Arquivos HTML**  
 
 **index.php**: Página inicial que pode servir como a entrada para outras funcionalidades.  
