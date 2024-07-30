@@ -6,10 +6,10 @@
 ## 📌 Sobre o projeto 
 Este projeto é uma aplicação web simples que permite o gerenciamento de um carrinho de compras, cadastro de categorias, marcas e produtos. Foi desenvolvido utilizando HTML, CSS, JavaScript e PHP com MySQL para a manipulação de dados.
 
-## 📝Estrutura do Projeto
+## ⚒️ Estrutura do Projeto
 A estrutura do projeto é a seguinte:   
 
-### **Arquivos HTML**  
+### 👩🏼‍💻 **Arquivos HTML**  
 
 **index.php**: Página inicial que pode servir como a entrada para outras funcionalidades.  
 
@@ -23,7 +23,7 @@ A estrutura do projeto é a seguinte:
 
 **pedido.php**: Página para exibir o resumo do pedido.  
 #
-### **Arquivos CSS**
+### 🖌️ **Arquivos CSS**
 
 **css/style.css**: Arquivo de estilo que define a aparência das páginas.
 Arquivos JavaScript
@@ -32,7 +32,7 @@ Arquivos JavaScript
 
 **js/script.js**: Script personalizado para adicionar interatividade às páginas.  
 #
-### **Scripts PHP**
+### 🐘 **Scripts PHP**
 
 **controller/conexao.php**: Script para estabelecer conexão com o banco de dados.  
 
@@ -49,13 +49,13 @@ Arquivos JavaScript
 **insere-produto.php**: Script para inserir um novo produto no banco de dados.
 
 
-# 🤖 Pré-requisitos
+# ⚠️ Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado:  
 1. PHP 8.0.30
 2. MariaDB 10.4.32
 3. XAMPP 3.3.0
 
-# Configuração do Banco de Dados
+# 🗃️ Configuração do Banco de Dados
 1. Crie um banco de dados MySQL e importe o esquema apropriado para criar as tabelas necessárias (categoria, marca, produtos, etc.).  
 
 2. Atualize o arquivo controller/conexao.php com suas credenciais de banco de dados.
@@ -66,7 +66,7 @@ Clone o repositório para seu ambiente local.
 
 4. Acesse a aplicação através do seu navegador, apontando para http://localhost/index.php.  
 
-# Funcionalidades
+# 💾 Funcionalidades
 Cadastro de Categorias: Permite adicionar novas categorias ao banco de dados.  
 
 Cadastro de Marcas: Permite adicionar novas marcas ao banco de dados.  
@@ -79,8 +79,8 @@ Resumo do Pedido: Exibe um resumo do pedido feito.
 
 
 
-# Exemplos de Uso dos Métodos PHP  
-## Cadastro de Categoria
+# 🐘 Exemplos de Uso dos Métodos PHP  
+## 🗃️ Cadastro de Categoria
 **Arquivo:** *insere-categoria.php*
 
 **Descrição:** Este script insere uma nova categoria no banco de dados.
@@ -112,7 +112,7 @@ if (mysqli_query($mysqli, $cad_categoria)) {
 mysqli_close($mysqli);
 ?>
 ```
-# Cadastro de Marca
+# 🗃️ Cadastro de Marca
 **Arquivo:** *insere-marca.php*
 
 **Descrição:** Este script insere uma nova marca no banco de dados.
@@ -148,7 +148,7 @@ mysqli_close($mysqli);
 ?>
  ``` 
 
-# Cadastro de Produto
+# 🗃️ Cadastro de Produto
 **Arquivo:** *insere-produto.php*
 
 **Descrição:** Este script insere um novo produto no banco de dados, associando-o a uma categoria e uma marca.
@@ -195,7 +195,7 @@ if (mysqli_query($mysqli, $grava_produto)) {
 mysqli_close($mysqli);
 ?>
  ```
- # Referências
+ # 🔗 Referências
 
 - [Documentação oficial do PHP: `mysqli_query()`](https://www.php.net/manual/pt_BR/mysqli.query.php)
 - [Documentação oficial do PHP: `mysqli_affected_rows()`](https://www.php.net/manual/pt_BR/mysqli.affected-rows.php)
