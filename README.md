@@ -8,7 +8,13 @@ A estrutura do projeto é a seguinte:
 #
 ### **Arquivos HTML**  
 
+<<<<<<< HEAD
 **index.php**: Página inicial que pode servir como a entrada para outras funcionalidades.  
+=======
+index.php: Página inicial que pode servir como a entrada para outras funcionalidades.
+
+carrinho.php: Página que exibe o carrinho de compras e produtos disponíveis.  
+>>>>>>> f74e59e1854f61645a79caa8f5a78facc7ceb063
 
 **carrinho.php**: Página que exibe o carrinho de compras e produtos disponíveis. 
 
@@ -48,9 +54,9 @@ Arquivos JavaScript
 
 # Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado:  
-1. PHP  
-2. MySQL  
-3. Um servidor local como XAMPP ou WampServer  
+1. PHP 8.0.30
+2. MariaDB 10.4.32
+3. XAMPP 3.3.0
 
 # Configuração do Banco de Dados
 1. Crie um banco de dados MySQL e importe o esquema apropriado para criar as tabelas necessárias (categoria, marca, produtos, etc.).  
@@ -197,3 +203,4 @@ mysqli_close($mysqli);
 - [Documentação oficial do PHP: `mysqli_query()`](https://www.php.net/manual/pt_BR/mysqli.query.php)
 - [Documentação oficial do PHP: `mysqli_affected_rows()`](https://www.php.net/manual/pt_BR/mysqli.affected-rows.php)
 - [Documentação oficial do PHP: `mysqli_fetch_assoc()`](https://www.php.net/manual/pt_BR/mysqli-result.fetch-assoc.php)
+- [Chatgpt:`Chatgpt.com`](https://chatgpt.com/)
