@@ -1,6 +1,6 @@
 # Aplicação de cadastro de e-commerce
 ## 🖥️ Capa do projeto
-<img src="img/cadEcomerce.gif">
+<img src="img/cadEcomeerce.gif">
 
 ## 📌 Sobre o projeto 
 Este projeto é uma aplicação web simples que permite o gerenciamento de um carrinho de compras, cadastro de categorias, marcas e produtos. Foi desenvolvido utilizando HTML, CSS, JavaScript e PHP com MySQL para a manipulação de dados.
