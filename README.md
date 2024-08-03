@@ -54,9 +54,12 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 1. PHP 8.0.30
 2. MariaDB 10.4.32
 3. XAMPP 3.3.0
+4. GitHub
 
 # 🗃️ Configuração do Banco de Dados
 Para usar esta aplicação, você precisará baixar alguns arquivos listados abaixo:  
+
+- [GitHub](https://git-scm.com/download/win) - Para criar o seu repositório  
 
 - [Git](https://git-scm.com/download/win) - Para clonar o repositório
 
