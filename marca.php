@@ -1,25 +1,36 @@
 <!DOCTYPE html>
- <html lang="pt-br">
- <head>
+<html lang="pt-br">
+<head>
+    <!-- Define a codificação de caracteres como UTF-8 -->
     <meta charset="UTF-8">
+    <!-- Configura a visualização da página para dispositivos móveis, garantindo que a largura da página corresponda à largura da tela -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Define o título da página que aparecerá na aba do navegador -->
     <title>Cadastrar Marcas</title>
+    <!-- Link para um arquivo CSS externo para aplicar estilos à página -->
     <link rel="stylesheet" href="css/style.css">
- </head>
- <body>
+</head>
+<body>
+    <!-- Cabeçalho da página -->
     <header>
         <div class="center">
+            <!-- Título principal da página -->
             <h1>Cadastro de Marcas</h1>
+            <!-- Link para a página inicial, abrindo na mesma aba -->
             <a href="index.php" target="_self">Voltar</a>
         </div>
     </header>
+    <!-- Seção principal contendo o formulário de cadastro de marcas -->
     <section id="produtos">
+        <!-- Formulário para inserir uma nova marca -->
         <form action="insere-marca.php" method="post">
+           <!-- Rótulo para o campo de descrição -->
            <label for="">Descrição</label>
-           <input type="text"  name = "descricao">
-           <input type="submit"  value = "Cadastrar">
+           <!-- Campo de entrada para a descrição da marca -->
+           <input type="text" name="descricao">
+           <!-- Botão para submeter o formulário -->
+           <input type="submit" value="Cadastrar">
         </form>
     </section>    
- </body>
- </html>
- 
+</body>
+</html>
