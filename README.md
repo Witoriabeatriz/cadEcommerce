@@ -63,9 +63,9 @@ Para usar esta aplicação, você precisará baixar alguns arquivos listados aba
 
 - [Git](https://git-scm.com/download/win) - Para clonar o repositório
 
-- [Xampp](https://www.apachefriends.org/pt_br/download.html) Pacote que instala Apache, MySQL, PHP 
+- [Xampp](https://www.apachefriends.org/pt_br/download.html) - Pacote que instala Apache, MySQL, PHP 
 
-- [Banco de dados]()  
+- [Banco de dados](https://github.com/Witoriabeatriz/cadEcommerce/blob/master/Banco%20de%20dados/compra.zip) - Script usado para a criação do banco de dados
 
 # 🆕 Saiba mais  
   
