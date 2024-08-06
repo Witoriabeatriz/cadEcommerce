@@ -59,7 +59,7 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 # 🗃️ Configuração do Banco de Dados
 Para usar esta aplicação, você precisará baixar alguns arquivos listados abaixo:  
 
-- [GitHub](https://git-scm.com/download/win) - Para criar o seu repositório  
+- [GitHub](https://github.com/) - Para criar o seu repositório  
 
 - [Git](https://git-scm.com/download/win) - Para clonar o repositório
 
