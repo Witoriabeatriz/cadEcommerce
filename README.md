@@ -65,7 +65,7 @@ Para usar esta aplicação, você precisará baixar alguns arquivos listados aba
 
 - [Xampp](https://www.apachefriends.org/pt_br/download.html) - Pacote que instala Apache, MySQL, PHP 
 
-- [Banco de dados](https://teams.microsoft.com/l/message/19:af11d21862c8409d8c9af35e424e6fd4@thread.v2/1719313646416?context=%7B%22contextType%22%3A%22chat%22%7D) - Script usado para a criação do banco de dados
+- [Banco de dados](https://we.tl/t-tHKzCCC4EM) - Script usado para a criação do banco de dados
 
 # 🆕 Saiba mais  
   
